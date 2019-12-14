@@ -1,0 +1,1 @@
+I know hte Decorator Pattern therefore I RULE!
